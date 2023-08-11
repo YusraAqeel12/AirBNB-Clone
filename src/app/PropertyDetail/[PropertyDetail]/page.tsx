@@ -1,7 +1,7 @@
 import Image from "next/image"
 import FetchData from "../../../../sanity/FetchData"
 import { urlForImage } from "../../../../sanity/lib/image"
-import Bed from "../../../../../AirBNB-Clone/public/download (4).jpeg"
+import Bed from "../../../../public/download (4).jpeg"
 import Button from "@/app/ui/Button"
 import { GiKitchenKnives } from "react-icons/gi"
 import { FaParking } from "react-icons/fa"
